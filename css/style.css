@@ -27,7 +27,7 @@ input:focus {
 body {
   height: 100vh;
   width: 100%;
-  background-image: url("/img/background.jpg");
+  background-image: url("../img/background.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
